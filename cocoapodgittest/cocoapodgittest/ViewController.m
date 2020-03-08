@@ -22,18 +22,19 @@
     
        self.view.backgroundColor =[UIColor greenColor];
     
-       self.view.backgroundColor =[UIColor redColor];
+      
 
 
 }
 
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
     
-    
+     self.view.backgroundColor =[UIColor redColor];
 }
 
 - (void)touchesMoved:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
     
 }
+
 
 @end
