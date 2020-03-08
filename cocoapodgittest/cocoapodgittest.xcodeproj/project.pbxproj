@@ -15,6 +15,7 @@
 		DAD4B9172414F4A100A3C3DF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAD4B9152414F4A100A3C3DF /* LaunchScreen.storyboard */; };
 		DAD4B91A2414F4A100A3C3DF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DAD4B9192414F4A100A3C3DF /* main.m */; };
 		DAD4B9222414F9BD00A3C3DF /* person.m in Sources */ = {isa = PBXBuildFile; fileRef = DAD4B9212414F9BD00A3C3DF /* person.m */; };
+		DAD4B9252414FFC700A3C3DF /* strudent.m in Sources */ = {isa = PBXBuildFile; fileRef = DAD4B9242414FFC700A3C3DF /* strudent.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,8 @@
 		DAD4B9192414F4A100A3C3DF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		DAD4B9202414F9BD00A3C3DF /* person.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = person.h; sourceTree = "<group>"; };
 		DAD4B9212414F9BD00A3C3DF /* person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = person.m; sourceTree = "<group>"; };
+		DAD4B9232414FFC700A3C3DF /* strudent.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = strudent.h; sourceTree = "<group>"; };
+		DAD4B9242414FFC700A3C3DF /* strudent.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = strudent.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				DAD4B90E2414F4A000A3C3DF /* ViewController.m */,
 				DAD4B9202414F9BD00A3C3DF /* person.h */,
 				DAD4B9212414F9BD00A3C3DF /* person.m */,
+				DAD4B9232414FFC700A3C3DF /* strudent.h */,
+				DAD4B9242414FFC700A3C3DF /* strudent.m */,
 				DAD4B9102414F4A000A3C3DF /* Main.storyboard */,
 				DAD4B9132414F4A100A3C3DF /* Assets.xcassets */,
 				DAD4B9152414F4A100A3C3DF /* LaunchScreen.storyboard */,
@@ -151,6 +156,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DAD4B9252414FFC700A3C3DF /* strudent.m in Sources */,
 				DAD4B90F2414F4A000A3C3DF /* ViewController.m in Sources */,
 				DAD4B9222414F9BD00A3C3DF /* person.m in Sources */,
 				DAD4B9092414F4A000A3C3DF /* AppDelegate.m in Sources */,

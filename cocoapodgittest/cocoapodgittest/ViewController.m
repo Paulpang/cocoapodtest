@@ -33,7 +33,8 @@
 }
 
 - (void)touchesMoved:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
-    
+    self.view.backgroundColor =[UIColor blueColor];
+
 }
 
 
